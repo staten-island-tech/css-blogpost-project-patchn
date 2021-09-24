@@ -3,9 +3,17 @@ body {
   background-color: aqua;
   font-size: 25px;
 }
+
 .header-title {
   text-align: center;
   color: ;
+  font-size: ;
+  font-family: ;
+}
+
+.header-name {
+  text-align: center;
+  color: aquamarine;
   font-size: ;
   font-family: ;
 }
