@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: aqua;
+  background-color: rgb(255, 249, 249);
   font-size: 25px;
 }
 .header-title {
@@ -11,12 +11,12 @@ body {
 }
 .header-name {
   text-align: center;
-  color: aquamarine;
+  color: ;
   font-size: ;
   font-family: ;
 }
 .main-blog {
-  background-color: aqua;
+  background-color: rgb(255, 249, 249);
   width: auto;
   margin: ;
   padding: ;
