@@ -1,24 +1,41 @@
 body {
-  text-align: center;
-  background-color: rgb(255, 249, 249);
-  font-size: 25px;
-}
-.header-title {
-  text-align: center;
-  color: ;
-  font-size: ;
+  background-color: #bee1e6;
   font-family: ;
 }
-.header-name {
+
+.mainHeader {
   text-align: center;
-  color: ;
-  font-size: ;
-  font-family: ;
+  background-color: #bee1e6;
+  margin: 60 10px;
+  border: 5px;
+  padding: 10px 10px;
 }
-.main-blog {
-  background-color: rgb(255, 249, 249);
-  width: auto;
-  margin: ;
-  padding: ;
+
+.postClass {
   text-align: center;
+  background-color: #e2ece9;
+  margin: 50 150px;
+  border: 5px;
+  padding: 10px 10px;
+}
+
+.cookiesandcream {
+  background-image: url(img/cookiesandcream.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 65vh;
+}
+
+.strawberry {
+  background-image: url(img/strawberry.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
+}
+
+.vanilla {
+  background-image: url(img/vanilla.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
 }
